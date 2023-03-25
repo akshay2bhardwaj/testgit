@@ -33,7 +33,7 @@ git add --a
 or
 git add file
 
-## TO clone
+## To clone
 
 git clone *link
 git status
