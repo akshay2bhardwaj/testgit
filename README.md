@@ -7,9 +7,17 @@
 git -- version
 ```
 
+#Setup Username
+```
 git config --global user.name "Akshay"
-git config --global user.email "akshay.3dboy@hotmail.com"
+```
+#Setup Username
+```
+git config --global user.email "akshay@github.com"
+```
+```
 git config --list
+```
 
 --> Get start
 
