@@ -53,7 +53,7 @@ git clone link
 git status
 ```
 # Below operations same for both cloned files or created files
-## Do changes in Unmodified files abd run
+## Do changes in Unmodified files (Commited files)
 ```
 git status
 ```
