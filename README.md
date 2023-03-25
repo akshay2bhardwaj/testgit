@@ -76,7 +76,7 @@ git log
 /dir/ - any specific repo\
 dir/ - all folder anywhere with name dir
 ## Add all file to .gitignore file which have to ignore
-Error.txt - any specific
+Error.txt - any specific\
 \*.txt - pattern
 ## Remote
 git remote add origin git@github.com:akshay/folder
