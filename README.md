@@ -22,7 +22,7 @@ git config --list
 
 # Get start
 
-## If New repository created 
+## Initiate git repository
 ```
 git status
 ```
@@ -71,9 +71,13 @@ git commit -m "description"
 ```
 git log
 ```
-## .gitignore
-add all directory to .gitignore file which have to ignore
-
+# .gitignore
+## Add all directory to .gitignore file which have to ignore
+/dir/ - any specific repo
+dir/ - all folder anywhere with name dir
+## Add all file to .gitignore file which have to ignore
+Error.txt - any specific
+\*.txt - pattern
 ## Remote
 git remote add origin git@github.com:akshay/folder
 git push -u origin master
