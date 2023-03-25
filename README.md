@@ -30,7 +30,7 @@ git status
 git init
 ```
 
-## If new files created, to move file in stage + unmodified untracked file
+## If new files created, to move file in Staged + Unmodified Untracked file
 ```
 git status
 ```
@@ -42,7 +42,7 @@ or
 git add *FileName
 ```
 
-## To clone
+## To Clone
 ```
 git clone *link
 ```
@@ -50,7 +50,7 @@ git clone *link
 git status
 ```
 # Below operations same for both cloned files or created files
-## Do changes in unmodified files 
+## Do changes in Unmodified files 
 git status
 result will be modified
 
