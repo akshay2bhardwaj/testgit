@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://git-scm.com/book/en/v2/images/lifecycle.png">
 </div>
-## Version
+# Version
 git -- version
 
 git config --global user.name "Akshay"
