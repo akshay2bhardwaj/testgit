@@ -73,7 +73,7 @@ git log
 ```
 # .gitignore
 ## Add all directory to .gitignore file which have to ignore
-/dir/ - any specific repo\n
+/dir/ - any specific repo\
 dir/ - all folder anywhere with name dir
 ## Add all file to .gitignore file which have to ignore
 Error.txt - any specific
