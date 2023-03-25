@@ -2,48 +2,47 @@
   <img src="https://git-scm.com/book/en/v2/images/lifecycle.png">
 </div>
 
-# Version check
+## Version check
 ```
 git -- version
 ```
-## Setup
-# Setup Username
+# Setup
+## Setup Username
 ```
 git config --global user.name "Akshay"
 ```
-# Setup Email
+## Setup Email
 ```
 git config --global user.email "akshay@github.com"
 ```
-# List all configuration
+## List all configuration
 ```
 git config --list
 ```
 
---> Get start
+# Get start
 
--->If New repository created 
+## If New repository created 
 git status
 git init
 
---> If new files created, to stage untracked file in case of New file created 
+## If new files created, to move file in stage + unmodified untracked file
 
 git status
 git add --a
 or
 git add file
 
--->if clone
+## TO clone
 
-git clone link
+git clone *link
 git status
-
-
--->Do changes
+# Below operations same for both cloned files or created files
+## Do changes in unmodified files 
 git status
-result - Modified
+result will be modified
 
---> Stage
+## Stage modified files 
 git add --a
 
 git commit -m "description"
