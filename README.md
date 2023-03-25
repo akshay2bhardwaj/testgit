@@ -45,7 +45,7 @@ git add FileName
 ```
 git commit -m "description"
 ```
-## To Clone
+## To Clone from Server
 ```
 git clone link
 ```
