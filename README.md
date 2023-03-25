@@ -7,11 +7,11 @@
 git -- version
 ```
 
-#Setup Username
+# Setup Username
 ```
 git config --global user.name "Akshay"
 ```
-#Setup Username
+# Setup Email
 ```
 git config --global user.email "akshay@github.com"
 ```
