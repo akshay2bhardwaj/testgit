@@ -1,8 +1,11 @@
 <div align="center">
   <img src="https://git-scm.com/book/en/v2/images/lifecycle.png">
 </div>
+
 # Version
+```
 git -- version
+```
 
 git config --global user.name "Akshay"
 git config --global user.email "akshay.3dboy@hotmail.com"
