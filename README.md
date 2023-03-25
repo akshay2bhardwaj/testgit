@@ -60,8 +60,18 @@ result will be modified
 ```
 git add --a
 ```
+## Commit Staged files
+```
 git commit -m "description"
+```
+## Check Log
+```
 git log
+```
+## .gitignore
+add all directory to .gitignore file which have to ignore
+
+## Remote
 git remote add origin git@github.com:akshay/folder
 git push -u origin master
 git pull origin master
