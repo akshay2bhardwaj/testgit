@@ -23,20 +23,32 @@ git config --list
 # Get start
 
 ## If New repository created 
+```
 git status
+```
+```
 git init
+```
 
 ## If new files created, to move file in stage + unmodified untracked file
-
+```
 git status
+```
+```
 git add --a
+```
 or
-git add file
+```
+git add *FileName
+```
 
 ## To clone
-
+```
 git clone *link
+```
+```
 git status
+```
 # Below operations same for both cloned files or created files
 ## Do changes in unmodified files 
 git status
