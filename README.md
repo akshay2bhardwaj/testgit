@@ -10,7 +10,7 @@ git config --list
 git status
 git init
 
---> If new files created, to track untracked file in case of New file created 
+--> If new files created, to stage untracked file in case of New file created 
 
 git status
 git add --a
@@ -26,6 +26,9 @@ git status
 -->Do changes
 git status
 result - Modified
+
+--> Stage
+git add --a
 
 git commit -m "description"
 git log
