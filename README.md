@@ -39,12 +39,12 @@ git add --a
 ```
 or
 ```
-git add *FileName
+git add FileName
 ```
 
 ## To Clone
 ```
-git clone *link
+git clone link
 ```
 ```
 git status
