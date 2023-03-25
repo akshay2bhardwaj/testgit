@@ -30,7 +30,7 @@ git status
 git init
 ```
 
-## If new files created, to move file in Staged + Unmodified Untracked file
+## If new files created, to move Untracked files in Staged + Unmodified  file
 ```
 git status
 ```
