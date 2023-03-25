@@ -50,13 +50,16 @@ git clone link
 git status
 ```
 # Below operations same for both cloned files or created files
-## Do changes in Unmodified files 
+## Do changes in Unmodified files
+```
 git status
+```
 result will be modified
 
 ## Stage modified files 
+```
 git add --a
-
+```
 git commit -m "description"
 git log
 git remote add origin git@github.com:akshay/folder
