@@ -77,17 +77,17 @@ dir/ - all folder anywhere with name dir
 ## Add all file to .gitignore file which have to ignore
 Error.txt - any specific\
 \*.txt - pattern
+# Diff
+## after change before staged
+git diff
+## after change after staged
+git diff --staged
 ## Remote
 git remote add origin git@github.com:akshay/folder
 git push -u origin master
 git pull origin master
 
-after change before staged
-git diff file
 
-after change after staged
-git add file
-git diff --staged file
 git reset file
 git checkout file 
 
