@@ -30,7 +30,7 @@ git status
 git init
 ```
 
-## If new files created, to move Untracked files in Staged + Unmodified  file
+## If new files created, to move Untracked files in Staged file
 ```
 git status
 ```
@@ -41,7 +41,10 @@ or
 ```
 git add FileName
 ```
-
+## Commit Staged files
+```
+git commit -m "description"
+```
 ## To Clone
 ```
 git clone link
