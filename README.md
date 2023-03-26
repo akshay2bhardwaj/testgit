@@ -22,7 +22,7 @@ git config --list
 
 # Get start
 
-## Initiate git repository
+## Initiate git repository if new project
 ```
 git status
 ```
