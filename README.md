@@ -89,7 +89,7 @@ git checkout -f
 git log
 ```
 # .gitignore
-## Add all directory to .gitignore file which have to ignore
+## Add directory to .gitignore file which have to ignore
 /dir/ - any specific repo\
 dir/ - all folder anywhere with name dir
 ## Add file to .gitignore file which have to ignore
