@@ -62,6 +62,11 @@ result will be modified
 ```
 git add --a
 ```
+## Commit Staged files
+```
+git commit -m "description"
+```
+# Undo
 ## Stage to Unstage specific file
 ```
 git restore --staged FileName
@@ -76,10 +81,6 @@ git checkout -- FileName
 ```
 ```
 git checkout -f
-```
-## Commit Staged files
-```
-git commit -m "description"
 ```
 ## Check Log
 ```
