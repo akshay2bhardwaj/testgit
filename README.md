@@ -95,14 +95,17 @@ git diff
 ## after change after staged
 git diff --staged
 ## Remote
+```
 git remote add origin git@github.com:akshay/folder
+```
+```
 git push -u origin master
+```
+```
 git pull origin master
-
-
+```
 git reset file
 git checkout file 
-
 git clone git@github.com:akshay/folder.git .
 
 https://www.youtube.com/watch?v=evknSAkUIvs&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi
