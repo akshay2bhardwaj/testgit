@@ -67,7 +67,7 @@ git add --a
 git commit -m "description"
 ```
 # Restore
-## Stage to Unstage specific file
+## Stage to Unstage 
 ```
 git restore --staged FileNameMask
 ```
@@ -76,7 +76,6 @@ or
 git restore --staged .
 ```
 ## Restore modified files to Unmodified file from last commit
-## Restore specific file
 ```
 git restore FileNameMask
 ```
