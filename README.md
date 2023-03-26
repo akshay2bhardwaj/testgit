@@ -71,6 +71,7 @@ git commit -m "description"
 ```
 git restore --staged FileNameMask
 ```
+or
 ```
 git restore --staged .
 ```
