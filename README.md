@@ -62,9 +62,13 @@ result will be modified
 ```
 git add --a
 ```
-## Stage to Unstage
+## Stage to Unstage specific file
 ```
 git restore --staged FileName
+```
+## Stage to Unstage everything
+```
+git reset
 ```
 ## Restore modified files to last commit file
 ```
