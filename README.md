@@ -80,6 +80,10 @@ git reset
 ```
 git checkout -- FileName
 ```
+or
+```
+git restore FileName
+```
 ## Restore everything
 ```
 git checkout -f
