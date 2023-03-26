@@ -115,10 +115,10 @@ eval "$(ssh-agent -s)"
 ```
 ssh-add ~/.ssh/id_ed25519
 ```
+## Add SSH Key to Github
 ```
 clip < ~/.ssh/id_ed25519.pub
 ```
-## Add SSH Key to Github
 ```
 git remote
 ```
