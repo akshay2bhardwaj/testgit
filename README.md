@@ -75,6 +75,9 @@ git restore --staged FileName
 ```
 git reset
 ```
+```
+git restore --staged .
+```
 ## Restore modified files to Unmodified file from last commit
 ## Restore specific file
 ```
