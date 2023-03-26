@@ -1,12 +1,11 @@
 <div align="center">
   <img src="https://git-scm.com/book/en/v2/images/lifecycle.png">
 </div>
-
+# Setup
 ## Version check
 ```
 git -- version
 ```
-# Setup
 ## Setup Username
 ```
 git config --global user.name "Akshay"
