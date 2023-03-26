@@ -88,6 +88,10 @@ git restore FileName
 ```
 git checkout -f
 ```
+or 
+```
+git restore .
+```
 ## Check Log
 ```
 git log
