@@ -62,7 +62,7 @@ result will be modified
 ```
 git add --a
 ```
-## Move Staged file to Unstaged file
+## Restore modified files to last Staged file
 ```
 git restore --staged FileName
 ```
