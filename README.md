@@ -142,4 +142,13 @@ git push -u origin master
 ```
 git pull origin master
 ```
+# Branch
+## To create new branch
+```
+git checkout -b devlope
+```
+## To switch
+```
+git checkout BranchName
+```
 https://www.youtube.com/watch?v=evknSAkUIvs&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi
