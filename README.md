@@ -66,6 +66,10 @@ git add --a
 ```
 git restore --staged FileName
 ```
+## Restore modified files or staged files to last Staged file
+```
+git checkout -- FileName
+```
 ## Commit Staged files
 ```
 git commit -m "description"
