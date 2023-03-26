@@ -77,7 +77,6 @@ git restore --staged .
 ## Restore modified files to Unmodified file from last commit
 ## Restore specific file
 ```
-```
 git restore FileNameMask
 ```
 ## Restore everything
