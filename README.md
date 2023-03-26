@@ -104,7 +104,8 @@ git remove --cached FileName
 git diff
 ## after change after staged
 git diff --staged
-## Remote
+# Remote
+## Generate SSH Key
 ```
 ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
@@ -117,7 +118,7 @@ ssh-add ~/.ssh/id_ed25519
 ```
 clip < ~/.ssh/id_ed25519.pub
 ```
-Add SSH Key to Github\
+## Add SSH Key to Github
 ```
 git remote
 ```
