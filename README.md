@@ -79,7 +79,7 @@ git restore --staged .
 ```
 git restore FileNameMask
 ```
-## Restore everything
+or
 ```
 git restore .
 ```
