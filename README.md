@@ -106,6 +106,9 @@ git diff
 git diff --staged
 ## Remote
 ```
+git remote
+```
+```
 git remote add origin link
 ```
 ```
