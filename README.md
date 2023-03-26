@@ -66,14 +66,10 @@ git add --a
 ```
 git commit -m "description"
 ```
-# Undo
+# Restore
 ## Stage to Unstage specific file
 ```
-git restore --staged FileName
-```
-## Stage to Unstage everything
-```
-git reset
+git restore --staged FileNameMask
 ```
 ```
 git restore --staged .
@@ -81,19 +77,20 @@ git restore --staged .
 ## Restore modified files to Unmodified file from last commit
 ## Restore specific file
 ```
-git checkout -- FileName
 ```
-or
-```
-git restore FileName
+git restore FileNameMask
 ```
 ## Restore everything
 ```
-git checkout -f
+git restore .
 ```
-or 
+## Restore Stage to Unstage specific file Unmodified file from last commit
 ```
 git restore .
+```
+or
+```
+git restore FileNameMask
 ```
 ## Check Log
 ```
