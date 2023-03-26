@@ -76,9 +76,11 @@ git restore --staged FileName
 git reset
 ```
 ## Restore modified files to Unmodified file from last commit
+## Restore specific file
 ```
 git checkout -- FileName
 ```
+## Restore everything
 ```
 git checkout -f
 ```
