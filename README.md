@@ -30,7 +30,7 @@ git status
 git init
 ```
 
-## If new files created, to move Untracked files in Staged file
+## If new files created, move Untracked files to Staged file
 ```
 git status
 ```
@@ -61,6 +61,10 @@ result will be modified
 ## Stage modified files 
 ```
 git add --a
+```
+## Move Staged file to Unstaged file
+```
+git restore --staged FileName
 ```
 ## Commit Staged files
 ```
