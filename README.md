@@ -117,6 +117,7 @@ ssh-add ~/.ssh/id_ed25519
 ```
 clip < ~/.ssh/id_ed25519.pub
 ```
+Add SSH Key to Github\
 ```
 git remote
 ```
