@@ -52,7 +52,7 @@ git clone link
 ```
 git status
 ```
-## Do changes in Unmodified files (Commited files or Staged Files)
+Do changes in Unmodified files (Commited files or Staged Files) then run
 ```
 git status
 ```
