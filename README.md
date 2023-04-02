@@ -126,7 +126,7 @@ ssh-add ~/.ssh/id_ed25519
 ```
 clip < ~/.ssh/id_ed25519.pub
 ```
-Add to Github\
+Add to Github
 ## Add repository to Github
 ```
 git remote add origin link
