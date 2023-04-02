@@ -163,8 +163,8 @@ ssh-add ~/.ssh/id_ed25519
 ```
 clip < ~/.ssh/id_ed25519.pub
 ```
-Add SSH Key to Github
-## Add repository to Github
+Add SSH Key to Remote
+## Add remote repository to origin
 ```
 git remote add origin link
 ```
