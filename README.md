@@ -144,7 +144,7 @@ Delete Branch
 ```
 git branch -d BranchName
 ```
-## Merge any other branch to current branch
+## Merge any other branch to current working branch
 ```
 git merge BranchName
 ```
