@@ -119,6 +119,23 @@ git remove --cached FileName
 git diff
 ## after change after staged
 git diff --staged
+# Branch
+## To create new branch
+```
+git checkout -b devlope
+```
+## To switch
+```
+git checkout BranchName
+```
+## Current branch
+```
+git branch
+```
+## Merge any other branch to current branch
+```
+git merge BranchName
+```
 # Remote
 ## Generate SSH Key
 ```
@@ -153,17 +170,5 @@ git push -u origin master
 ```
 git pull origin master
 ```
-# Branch
-## To create new branch
-```
-git checkout -b devlope
-```
-## To switch
-```
-git checkout BranchName
-```
-## Current branch
-```
-git branch
-```
+
 https://www.youtube.com/watch?v=evknSAkUIvs&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi
