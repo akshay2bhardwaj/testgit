@@ -138,7 +138,11 @@ git branch--merged
 ```
 ## All Non merged Branch
 ```
-git branch --nomerged
+git branch --no-merged
+```
+Delete Branch
+```
+git branch -d BranchName
 ```
 ## Merge any other branch to current branch
 ```
