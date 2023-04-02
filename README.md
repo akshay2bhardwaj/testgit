@@ -132,6 +132,14 @@ git checkout BranchName
 ```
 git branch -v
 ```
+## All merged branch
+```
+git branch--merged
+```
+## All Non merged Branch
+```
+git branch --nomerged
+```
 ## Merge any other branch to current branch
 ```
 git merge BranchName
