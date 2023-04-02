@@ -144,10 +144,6 @@ Delete Branch
 ```
 git branch -d BranchName
 ```
-## Delete Branch from remote
-```
-git push origin -delete edited  
-```
 ## Merge any other branch to current branch
 ```
 git merge BranchName
@@ -186,5 +182,8 @@ git push -u origin BranchName
 ```
 git pull origin BranchName
 ```
-
+## Delete Branch from remote
+```
+git push origin -delete BranchName  
+```
 https://www.youtube.com/watch?v=evknSAkUIvs&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi
