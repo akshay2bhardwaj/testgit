@@ -158,6 +158,7 @@ git checkout -b devlope
 ```
 git checkout BranchName
 ```
+## Current branch
 ```
 git branch
 ```
