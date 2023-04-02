@@ -45,6 +45,10 @@ git add FileNameMask
 ```
 git commit -m "description"
 ```
+## Stage and Commit together
+```
+git commit -a -m "comment"
+```
 ## To Clone from Server files
 ```
 git clone link
