@@ -122,7 +122,7 @@ eval "$(ssh-agent -s)"
 ```
 ssh-add ~/.ssh/id_ed25519
 ```
-## Copy SSH Key to Github
+## Copy SSH Key to Clipboard
 ```
 clip < ~/.ssh/id_ed25519.pub
 ```
