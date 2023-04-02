@@ -141,9 +141,11 @@ git remote
 ```
 git remote -v
 ```
+## Push to server
 ```
 git push -u origin master
 ```
+## Pull from server
 ```
 git pull origin master
 ```
