@@ -39,7 +39,7 @@ git add --a
 ```
 or
 ```
-git add FileName
+git add FileNameMask
 ```
 ## Commit Staged files
 ```
