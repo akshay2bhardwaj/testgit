@@ -122,10 +122,11 @@ eval "$(ssh-agent -s)"
 ```
 ssh-add ~/.ssh/id_ed25519
 ```
-## Add SSH Key to Github
+## Copy SSH Key to Github
 ```
 clip < ~/.ssh/id_ed25519.pub
 ```
+Add to Github
 Add repository to Github
 ```
 git remote add origin link
