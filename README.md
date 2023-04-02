@@ -130,7 +130,7 @@ git checkout BranchName
 ```
 ## Current branch
 ```
-git branch
+git branch -v
 ```
 ## Merge any other branch to current branch
 ```
