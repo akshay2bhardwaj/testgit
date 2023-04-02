@@ -176,11 +176,11 @@ git remote -v
 ```
 ## Push to server
 ```
-git push -u origin master
+git push -u origin BranchName
 ```
 ## Pull from server
 ```
-git pull origin master
+git pull origin BranchName
 ```
 
 https://www.youtube.com/watch?v=evknSAkUIvs&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi
