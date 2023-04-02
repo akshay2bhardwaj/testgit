@@ -29,6 +29,10 @@ git status
 ```
 git init
 ```
+## Remove project from git
+```
+rm -rf .git
+```
 
 ## If new files created, move Untracked files to Staged file
 ```
