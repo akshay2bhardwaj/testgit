@@ -105,10 +105,12 @@ git log
 ```
 # .gitignore
 ## Add directory to .gitignore file which have to ignore
-/dir/ - any specific repo/n
+
+/dir/ - any specific repo\n
 dir/ - all folder or file anywhere with name dir\n
 FileNameMask - any file\n
 /dir/FileNameMask - any specific file
+
 ## Move to Untracked files
 ```
 git remove --cached FileName
