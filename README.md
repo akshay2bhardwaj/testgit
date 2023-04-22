@@ -106,7 +106,7 @@ git log
 # .gitignore
 ## Add directory to .gitignore file which have to ignore
 /dir/ - any specific repo\
-dir/ - all folder or file anywhere with name dir\
+dir/ - all folder anywhere with name dir\
 FileNameMask - any file\
 /dir/FileNameMask - any specific file
 ## Move to Untracked files
